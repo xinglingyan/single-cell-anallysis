@@ -1,2 +1,2 @@
-# single-cell-anallysis
+# single-cell-analysis
 Single cell analysis by PAGA and Monocle
